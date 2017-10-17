@@ -3200,7 +3200,7 @@ msgstr ""
 #. openerp-web
 #: code:addons/mail/static/src/xml/client_action.xml:11
 #, python-format
-msgid "Odoo needs your permission to"
+msgid "Beatus needs your permission to"
 msgstr "Odoo necesita su permiso para"
 
 #. module: mail

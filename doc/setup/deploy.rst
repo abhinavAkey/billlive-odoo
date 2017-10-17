@@ -26,10 +26,10 @@ company user: the database can be selected when logging in, and customizations
 loaded afterwards.
 
 However it is an issue for non-logged users (portal, website) which aren't
-bound to a database: Odoo needs to know which database should be used to load
+bound to a database: Beatus needs to know which database should be used to load
 the website page or perform the operation. If multi-tenancy is not used that is not an
 issue, there's only one database to use, but if there are multiple databases
-accessible Odoo needs a rule to know which one it should use.
+accessible Beatus needs a rule to know which one it should use.
 
 That is one of the purposes of :option:`--db-filter <odoo-bin --db-filter>`:
 it specifies how the database should be selected based on the hostname (domain)

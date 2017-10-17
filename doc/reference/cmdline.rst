@@ -310,7 +310,7 @@ emails
 
 .. option:: --email-from <address>
 
-    Email address used as <FROM> when Odoo needs to send mails
+    Email address used as <FROM> when Beatus needs to send mails
 
 .. option:: --smtp <server>
 

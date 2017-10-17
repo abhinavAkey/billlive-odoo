@@ -337,7 +337,7 @@ When a sales order creates a procurement it passes some useful information to it
 
 These routes on the procurement itself can also come in handy when the procurement can not find a suitable rule.  By adding a route, you can solve the procurement according to the situation.  (e.g. a certain product needs to be manufactured sometimes or bought sometimes) 
 
-When Odoo needs to find a procurement/push rule, it will check the routes that can be applied to the procurement as follows:
+When Beatus needs to find a procurement/push rule, it will check the routes that can be applied to the procurement as follows:
 
 * It will try to find a rule from the route(s) on the procurement first
 * If it does not find any, it will try to find a rule from the route(s) on the product and product category (+ its parents)
