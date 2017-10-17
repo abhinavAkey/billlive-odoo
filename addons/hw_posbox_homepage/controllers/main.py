@@ -30,7 +30,7 @@ index_template = """
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>Odoo's PosBox</title>
+        <title>Beatus's PosBox</title>
 """ + index_style + """
     </head>
     <body>
